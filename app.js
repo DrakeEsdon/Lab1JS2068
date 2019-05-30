@@ -4,7 +4,7 @@ const path = require('path');
 const app = express();
 
 // Our views path
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, 'Views'));
 app.set('view engine', 'pug');
 
 //our routes
