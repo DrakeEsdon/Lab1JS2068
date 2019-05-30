@@ -1,2 +1,2 @@
-# Comp-2068-thursday
+# Lab1
 A Blogging Platform
